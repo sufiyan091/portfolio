@@ -1,0 +1,49 @@
+.nav{
+margin: -8px -8px -8px -8px ;
+background-image: url(./image/istockphoto-1282505760-170667a.jpg);
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+font-size: larger;
+}
+.li1:hover{
+    text-decoration: underline;
+    color: aliceblue;
+    cursor: pointer;
+}
+.li2:hover{
+    text-decoration: underline;
+    color: aliceblue;
+    cursor: pointer;
+}
+.li3:hover{
+    text-decoration: underline;
+    color: aliceblue;
+    cursor: pointer;
+}
+.li4:hover{
+    text-decoration: underline;
+    color: aliceblue;
+    cursor: pointer;
+}
+.li5:hover{
+    text-decoration: underline;
+    color: aliceblue;
+    cursor: pointer;
+}
+.li6:hover{
+    text-decoration: underline;
+    color: aliceblue;
+    cursor: pointer;
+}
+.li7:hover{
+    text-decoration: underline;
+    color: aliceblue;
+    cursor: pointer;
+}
+.button:hover{
+    font-size: 20px;
+    text-decoration: underline blue ; 
+    color: aliceblue;
+    cursor: pointer;
+
+
+}
